@@ -1,8 +1,8 @@
 # Continuous-time recurrent neural network with electrical gap junctions
 
-A nervous system class, based on the CTRNN class by Prof. Randall Beer, with the addition of electrical gap junctions. Developed originally for modeling C. elegans neurons. 
+A nervous system class, based on the CTRNN class by Prof. Randall Beer, with the addition of electrical gap junctions. Developed originally for modeling C. elegans neurons.
 
-This class has been used in several publications, including: 
+This class has been used in several publications, including:
 
 Izquierdo, E.J., and Beer, R.D.  (2013) <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002890">Connecting a connectome to behavior: An ensemble of neuroanatomical models of C. elegans klinotaxis</a>. PLoS Computational Biology 9(2): e1002890. doi:10.1371/journal.pcbi.1002890.
 
